@@ -7,8 +7,8 @@
     <ProjectGuid>{3882C0BD-ED0B-4780-802A-B661AB56C148}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HibernateModelCleaner</RootNamespace>
-    <AssemblyName>HibernateModelCleaner</AssemblyName>
+    <RootNamespace>HibernateHeadersCleaner</RootNamespace>
+    <AssemblyName>HibernateHeadersCleaner</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

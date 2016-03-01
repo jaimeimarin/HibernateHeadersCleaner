@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace HibernateModelCleaner
+namespace HibernateHeadersCleaner
 {
     internal class Program
     {
